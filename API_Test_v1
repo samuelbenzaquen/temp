@@ -1,0 +1,1 @@
+@RequestMapping(value = "/test", method = RequestMethod.POST, consumes = {"multipart/form-data"})
